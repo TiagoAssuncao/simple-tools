@@ -1,5 +1,5 @@
-# Simple example use about C tools
-Tree exercises about simple logic in C to GNU OS. We will work with this follow points:
+# Simple example use about tools
+Simple logic in C, python to GNU OS. We will work with this follow points:
 
 1. [Header Files](https://gcc.gnu.org/onlinedocs/cpp/Header-Files.html)
 2. [Makefile](https://www.gnu.org/software/make/manual/make.html)
